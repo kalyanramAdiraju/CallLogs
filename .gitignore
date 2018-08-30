@@ -1,8 +1,7 @@
+*.iml
+.gradle
+/local.properties
+/build
+.idea/
 
-.gitignore
-.idea/libraries/
-.idea/modules.xml
-.idea/vcs.xml
-CallLogs.iml
-app/libs/
-local.properties
+gradle.properties
