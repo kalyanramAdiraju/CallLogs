@@ -1,0 +1,8 @@
+
+.gitignore
+.idea/libraries/
+.idea/modules.xml
+.idea/vcs.xml
+CallLogs.iml
+app/libs/
+local.properties
